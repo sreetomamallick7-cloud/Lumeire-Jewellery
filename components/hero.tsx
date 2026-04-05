@@ -14,7 +14,7 @@ export function Hero() {
     <section className="relative h-screen w-full">
       {/* Full Bleed Hero Image */}
       <img
-        src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=2070&auto=format&fit=crop"
+        src="https://www.tasaki-global.com/pub/media/home_top/ba4-pc-2col-r-bridal2602-700x470-v1.jpg?q=80&w=2070&auto=format&fit=crop"
         alt="Elegant woman wearing diamond jewellery in an editorial luxury portrait"
         className="absolute inset-0 w-full h-full object-cover object-center"
       />
