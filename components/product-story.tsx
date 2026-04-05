@@ -29,7 +29,7 @@ const tabs = [
     label: "The Stone", 
     number: "01",
     title: "A diamond chosen once in ten thousand.",
-    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=1200&q=90",
+    image: "https://www.harrywinston.com/-/media/project/harry-winston/corporate/harry-winston-int/homepage/hw26_hp_bri_des_1.jpg?w=1200&q=90",
     details: [
       { label: "Carat", value: "2.4ct Oval" },
       { label: "Colour", value: "D — Colourless" },
@@ -42,7 +42,7 @@ const tabs = [
     label: "The Making", 
     number: "02",
     title: "72 hours. One craftsman. One stone.",
-    image: "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?w=1200&q=90",
+    image: "https://media.debeers.com/i/debeers/v2-march-2026-homepage-talisman-banner-4000x2000/Talisman%20Jewellery%20Diamond%20Collection?w=1200&q=90",
     details: [
       { label: "Selection", value: "8 Hours" },
       { label: "Setting", value: "14 Hours" },
